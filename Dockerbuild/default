@@ -8,7 +8,6 @@ server {
     server_name localhost;
 
     access_log /var/log/nginx/localhost.com-access.log;
-    error_log  /var/log/nginx/localhost.com-error.log error;
 
     charset utf-8;
 
